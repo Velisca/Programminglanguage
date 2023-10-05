@@ -5,9 +5,11 @@
 系級：115系2年級  
 
 ## 課程筆記區🧳  
-[Week 4](https://github.com/Velisca/Programminglanguage/blob/main/week4.ipynb)
-json --> dict
-csv --> dataframe 
+[Week 4](https://github.com/Velisca/Programminglanguage/blob/main/week4.ipynb)  
+json --> dict  
+csv --> dataframe   
+[Week 5](https://github.com/Velisca/Programminglanguage/blob/main/Practise/Week5.ipynb)  
+
 ## 作業連結區🎖️
 HW1 ----> [Homework1](https://colab.research.google.com/drive/1GkvoOlJVdG1NmhtHSmy4YVK1vpFQIU9j#scrollTo=LTIQLwQo_bvL)
 
