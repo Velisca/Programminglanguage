@@ -16,7 +16,7 @@ csv --> dataframe
 HW1 ----> [Homework1](https://colab.research.google.com/drive/1GkvoOlJVdG1NmhtHSmy4YVK1vpFQIU9j#scrollTo=LTIQLwQo_bvL)  
 HW2 ----> [Homework2](https://github.com/Velisca/Programminglanguage/blob/main/Homeworks/HW%202/HW2.ipynb)  
 HW3 ----> [Homework3](https://github.com/Velisca/Programminglanguage/blob/main/Homeworks/HW%203/Homework%203.ipynb)  
-HW4 ----> [Homework4](https://medium.com/@41171128h/hw4-%E6%BD%98%E6%9F%94%E7%8E%89-6f7644900dd6)
+HW4 ----> [Homework4 MEDIUM](https://medium.com/@41171128h/hw4-%E6%BD%98%E6%9F%94%E7%8E%89-6f7644900dd6) & [Homework 4 Jupyter Notebook](https://github.com/Velisca/Programminglanguage/blob/main/Homeworks/HW%204/Homework%204.ipynb)
 
 ## 專題連結區⚓️
 Markdown 語法說明：https://markdown.tw/  
